@@ -1,5 +1,4 @@
 # Desmos-Projects
-My Mathematical Models in Desmos
 
 ## My Mathematical Models in Desmos
 
